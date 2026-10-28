@@ -1,0 +1,4 @@
+time_s,event
+1.4500,controller_hang_injected
+1.4900,SAFE_STOP: controller_heartbeat_timeout
+1.6620,STOPPED: all_joint_velocity_below_0.006rad_s for_50ms

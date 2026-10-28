@@ -1,0 +1,4 @@
+time_s,event
+1.4500,drive_heartbeat_loss_injected joint=13
+1.4900,SAFE_STOP: drive_heartbeat_timeout joint=13
+1.6650,STOPPED: all_joint_velocity_below_0.006rad_s for_50ms

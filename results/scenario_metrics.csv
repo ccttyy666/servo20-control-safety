@@ -1,0 +1,5 @@
+scenario,final_state,reason,trigger_s,stopped_s,arrived,arrival_spread_ms,wakeup_lateness_p99_us,wakeup_lateness_max_us,period_abs_error_p99_us
+nominal,RUNNING,none,-1.00000,-1.00000,20/20,128.00000,233.85500,3854.28300,305.08000
+jam,STOPPED,persistent_following_error joint=8,1.80600,1.98100,0/20,-1.00000,nan,-1.00000,nan
+controller_heartbeat,STOPPED,controller_heartbeat_timeout,1.49000,1.66200,0/20,-1.00000,nan,-1.00000,nan
+drive_heartbeat,STOPPED,drive_heartbeat_timeout joint=13,1.49000,1.66500,0/20,-1.00000,nan,-1.00000,nan

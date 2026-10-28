@@ -1,0 +1,4 @@
+time_s,event
+1.4500,mechanical_jam_injected joint=8 (simulation only)
+1.8060,SAFE_STOP: persistent_following_error joint=8
+1.9810,STOPPED: all_joint_velocity_below_0.006rad_s for_50ms
